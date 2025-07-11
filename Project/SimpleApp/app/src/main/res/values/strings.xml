@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Simple App</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Fragment labels -->
+    <string name="home">Home</string>
+    <string name="notepad">Notepad</string>
+    <string name="submit">Submit</string>
+
+    <!-- Menu labels -->
+    <string name="menu_home">Home</string>
+    <string name="menu_notepad">Notepad</string>
+    <string name="menu_submit">Submit</string>
+
+    <!-- Notepad functionality -->
+    <string name="fab_action_desc">Send email</string>
+
+    <!-- Submit fragment -->
+    <string name="enter_something">Enter something</string>
+    <string name="output_appears_here">Output appears here</string>
+    <string name="entered_text">You entered: %1$s</string>
+
+    <!-- Placeholder text -->
+    <string name="home_text"> Welcome to the app! </string>
+</resources>
